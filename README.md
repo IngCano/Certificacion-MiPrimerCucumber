@@ -1,2 +1,3 @@
 # Certificacion-MiPrimerCucumber
-Certificacion - Primer proyecto utilizando gradle + junit + selenium + cucumber + hamcrest
+En este repositorio se encuentra el tercer proyecto realizado durante el semillero de pruebas automatizadas.
+  - En el proyecto se hace uso de gradle, junit, selenium, cucumber, reportes de cucumber, hamcrest matchers y POM
